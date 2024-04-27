@@ -1,7 +1,7 @@
 # Overview : 
 
-### Marketing Analysis: The main title suggests that this dashboard is used to analyze marketing data.
-### Data Segmentation: The analysis is broken down by product categories (Furniture, Office Supplies, and Technology) and customer segments (Consumer, Corporate, and Home Office).
+Marketing Analysis: The main title suggests that this dashboard is used to analyze marketing data.
+Data Segmentation: The analysis is broken down by product categories (Furniture, Office Supplies, and Technology) and customer segments (Consumer, Corporate, and Home Office).
 
 ## Key Metrics:
 ## Sales Last Year:
@@ -32,7 +32,7 @@ New York City shows strong growth in the Corporate segment with 33.3%.
 
 
 # Graphical Analysis:
-#### Shipping Mode Analysis: A bar chart compares the different shipping modes (First Class, Same Day, Second Class, Standard Class) across two years.
+Shipping Mode Analysis: A bar chart compares the different shipping modes (First Class, Same Day, Second Class, Standard Class) across two years.
 Standard Class is the most used shipping mode, followed by Second Class.
 Same Day shipping has the least usage.
 
