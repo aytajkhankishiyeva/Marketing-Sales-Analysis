@@ -36,7 +36,8 @@ Shipping Mode Analysis: A bar chart compares the different shipping modes (First
 Standard Class is the most used shipping mode, followed by Second Class.
 Same Day shipping has the least usage.
 
-## Sales Performance: Bar charts are showing monthly sales performance for the year 2017 across all categories.
+## Sales Performance:
+Bar charts are showing monthly sales performance for the year 2017 across all categories.
 There is a noticeable peak in sales in certain months, suggesting seasonal trends.
 ## Top 10 States With The Highest Sales:
 California leads with the highest sales, followed by New York and Texas.
